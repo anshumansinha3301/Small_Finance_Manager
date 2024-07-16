@@ -29,7 +29,7 @@ public:
         std::cout << "Balance: " << totalIncome - totalExpense << "\n";
     }
 };
-
+// main function is here
 int main() {
     FinanceManager fm;
     fm.addTransaction("income", 1000);
