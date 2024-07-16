@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-
+// small finance manager
 struct Transaction {
     std::string type;
     double amount;
